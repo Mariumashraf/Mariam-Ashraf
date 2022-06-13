@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="BestBuySuite" parallel="tests" thread-count="16" verbose="0">
+    <test name="BestBuy">
+        <classes>
+            <class name="bestBuy.BaseTest"/>
+            <class name="bestBuy.CategoriesTest"/>
+            <class name="bestBuy.ProductsTest"/>
+            <class name="bestBuy.ServicesTest"/>
+            <class name="bestBuy.StoresTest"/>
+            <class name="bestBuy.UtilitiesTest"/>
+            <class name="bestBuy.CategoriesWithUtilitiesTest"/>
+        </classes>
+    </test>
+</suite>

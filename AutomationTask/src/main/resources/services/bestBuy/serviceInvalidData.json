@@ -1,0 +1,14 @@
+{
+  "service": [
+    {
+      "name": "",
+      "message": "Invalid Parameters",
+      "errorMessage": "'name' should NOT be shorter than 1 characters"
+    },
+    {
+      "name": "Name more than 100 charactersName more than 100 charactersName more than 100 charactersName more than 100 characters",
+      "message": "Invalid Parameters",
+      "errorMessage": "'name' should NOT be longer than 100 characters"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "validUsers": [
+    {
+      "email": "open_gbcmsws_user@tfbnw.net",
+      "password": "MKL#99qwer"
+    }
+  ],
+  "invalidUsers": [
+    {
+      "email": "",
+      "password": "",
+      "errorMessage": "The email address or mobile number you entered isn't connected to an account. Find your account and log in."
+    },
+    {
+      "email": "mydummyemail@dummy.com",
+      "password": "Dummy_Passwor#95",
+      "errorMessage": "The email address you entered isn't connected to an account. Find your account and log in."
+    },
+    {
+      "email": "open_gbcmsws_user@tfbnw.net",
+      "password": "Dummy_Passwor#95",
+      "errorMessage": "The password that you've entered is incorrect. Forgotten password?"
+    },
+    {
+      "email": "mydummyemail@dummy.com",
+      "password": "MKL#99qwer",
+      "errorMessage": "The email address you entered isn't connected to an account. Find your account and log in."
+    }
+  ]
+
+}

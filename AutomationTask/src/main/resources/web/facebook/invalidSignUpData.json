@@ -1,0 +1,75 @@
+{
+  "invalidUsers": [
+    {
+      "fName": "",
+      "lName": "Automation_lName_0",
+      "email": "stxnwthhha_1655075522@tfbnw.net",
+      "confirmEmail": "stxnwthhha_1655075522@tfbnw.net",
+      "password": "WVq@vbnm,95",
+      "bDate": "12/11/1971",
+      "gender":"Female",
+      "errorMessage": "What's your name?"
+    },
+    {
+      "fName": "Automation_fName_0",
+      "lName": "",
+      "email": "stxnwthhha_1655075522@tfbnw.net",
+      "confirmEmail": "stxnwthhha_1655075522@tfbnw.net",
+      "password": "WVq@vbnm,95",
+      "bDate": "12/11/1971",
+      "gender":"Female",
+      "errorMessage": "What's your name?"
+    },
+    {
+      "fName": "Automation_fName_0",
+      "lName": "Automation_lName_0",
+      "email": "",
+      "confirmEmail": "",
+      "password": "WVq@vbnm,95",
+      "bDate": "12/11/1971",
+      "gender":"Female",
+      "errorMessage": "You'll use this when you log in and if you ever need to reset your password."
+    },
+    {
+      "fName": "Automation_fName_0",
+      "lName": "Automation_lName_0",
+      "email": "stxnwthhha_1655075522@tfbnw.net",
+      "confirmEmail": "",
+      "password": "WVq@vbnm,95",
+      "bDate": "12/11/1971",
+      "gender":"Female",
+      "errorMessage": "Please re-enter your email address."
+    },
+    {
+      "fName": "Automation_fName_0",
+      "lName": "Automation_lName_0",
+      "email": "stxnwthhha_1655075522@tfbnw.net",
+      "confirmEmail": "stxnwthhha_1655075522@tfbnw.net",
+      "password": "",
+      "bDate": "12/11/1971",
+      "gender":"Female",
+      "errorMessage": "Enter a combination of at least six numbers, letters and punctuation marks (such as ! and &)."
+    },
+    {
+      "fName": "Automation_fName_0",
+      "lName": "Automation_lName_0",
+      "email": "stxnwthhha_1655075522@tfbnw.net",
+      "confirmEmail": "stxnwthhha_1655075522@tfbnw.net",
+      "password": "WVq@vbnm,95",
+      "bDate": "",
+      "gender":"Female",
+      "errorMessage": "It looks like you've entered the wrong info. Please make sure that you use your real date of birth."
+    },
+    {
+      "fName": "Automation_fName_0",
+      "lName": "Automation_lName_0",
+      "email": "stxnwthhha_1655075522@tfbnw.net",
+      "confirmEmail": "stxnwthhha_1655075522@tfbnw.net",
+      "password": "WVq@vbnm,95",
+      "bDate": "12/11/1971",
+      "gender":"",
+      "errorMessage": "Please choose a gender. You can change who can see this later."
+    }
+  ]
+
+}
