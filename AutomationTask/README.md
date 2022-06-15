@@ -5,7 +5,7 @@
 ## Features:
 * Reading data from Properties, Excel and Json files.
 * Running on multiple browsers besides headless running.
-* Taking screenshots and logger.
+* Taking screenshots.
 * Logging.
 * Generating Extent report.
 
@@ -45,7 +45,7 @@
 #### 1. List of test cases Proposed For Automation:
 
 | EndPoint       | Request Type          |Scenario |Script Name|
-| ------------- |:-------------:|:-------------:||:-------------:||
+| ------------- |:-------------:|:-------------:|:-------------:|
 |Products|Post|Verify that I can't add a new product with an empty body|addNewProductWithEmptyBody()|
 |Products|Post|Verify that i can add a new product successfully|addNewProduct()|
 |Products|Get|Verify that I can get a product successfully by valid id|getProductByValidId()|
