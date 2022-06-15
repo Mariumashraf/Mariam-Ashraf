@@ -35,3 +35,7 @@
 |Validate how the app function under different battery levels|Low|
 |Validate the font size and style of the app are compatible and readable to the users|Low|
 |Validate mobile gestures scrolling, swiping, portrait, and landscape modes|Low|
+
+
+# Second Part
+## Defects for LinkedIn Android mobile app
