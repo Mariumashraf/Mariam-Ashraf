@@ -39,3 +39,77 @@
 
 # Second Part
 ## Defects for LinkedIn Android mobile app
+### 1. Bug_01
+- #### Title : Search Page _ Wrong search results when searching by entering special characters in the search field
+- #### ReproducibleSteps :
+   - ##### Insatll the app
+   - ##### Log in with a valid account
+   - ##### Click on the search field at Home page
+   - ##### Type special characters at the search field '@@#%&*%#$'
+   - ##### Check the result
+- #### Expected Result: No result message should be appeared
+- #### Actual Result: Wrong search results that doesn't related to special characters
+- #### Attachments: Bugs Attachments/SearchResult.jpeg, ugs Attachments/SearchResult1.jpeg
+- #### AffectedDevices: Android (Oppo A9)
+- #### Network: Wifi
+- #### Severity: LOw
+- #### Priority: Low
+
+### 2. Bug_02
+- #### Title : Cross-Language Arabic Localization
+- #### ReproducibleSteps :
+   - ##### Insatll the app
+    - ##### Change the language of mobile device to Arabic
+    - ##### Open the app
+   - ##### Log in with a valid account
+   - ##### Check the text of UI [Home, Profile, My Network, Invitations pages]
+- #### Expected Result: All text should be in Arabic
+- #### Actual Result: Some text appears in English 
+- #### Attachments: Bugs Attachments/Arabic Language.jpeg, Bugs Attachments/Arabic Language1.jpeg, Bugs Attachments/Arabic Language2.jpeg, Bugs Attachments/Arabic Language3.jpeg
+- #### AffectedDevices: Android (Oppo A9)
+- #### Network: Wifi
+- #### Severity: LOw
+- #### Priority: Low
+
+### 3. Bug_03
+- #### Title : User Agreement _ Wrong Effective Date in Arabic Language
+- #### ReproducibleSteps :
+   - ##### Insatll the app
+    - ##### Change the language of mobile device to Arabic
+    - ##### Open the app
+   - ##### Log in with a valid account
+   - ##### Click on user picture icon
+   - ##### Click on Settings
+   - ##### Scroll Down
+   - ##### Click on User Agreement
+   - ##### Check the effective date of user agreement 
+- #### Expected Result: ساربة بتاريخ 1 فبراير،٢٠٢٢
+- #### Actual Result: ساربة بتاريخ 1فبراير،2022 ٢٠٢٠
+- #### Attachments: Bugs Attachments/User Agreement in Arabic.jpeg, Bugs Attachments/User Agreement in English.jpeg
+- #### AffectedDevices: Android (Oppo A9)
+- #### Network: Wifi
+- #### Severity: LOw
+- #### Priority: Low
+
+### 4. Bug_04
+- #### Title : My Jobs _ the number of My Jobs in the mobile app is different from the web app
+- #### ReproducibleSteps :
+   - ##### Insatll the app
+    - ##### Open the app
+   - ##### Log in with a valid account
+   - ##### Click on user picture icon
+   - ##### Click on View Profile
+   - ##### Click on Show all Resurces
+   - ##### Click on My Items
+   - ##### Check number of My Jobs
+   - ##### Open LinkedIn from web with the same account
+   - Click on My Items
+   - Check number of My Jobs
+
+- #### Expected Result: Number of my jobs should be the same at mobile and web
+- #### Actual Result: Number of my jobs at mobile and web is different
+- #### Attachments:Bugs Attachments/Number of jobs mobile.jpeg, Bugs Attachments/Number of jobs web.jpeg
+- #### AffectedDevices: Android (Oppo A9)
+- #### Network: Wifi
+- #### Severity: LOw
+- #### Priority: Low
