@@ -140,3 +140,26 @@
 - #### Network: Wifi
 - #### Severity: Low
 - #### Priority: Low
+
+### 6. Bug_06
+- #### Title : The Edit Post page shows that the post is for anyone, but it is for connections only  
+- #### ReproducibleSteps :
+   - ##### Insatll the app
+    - ##### Open the app
+   - ##### Log in with a valid account
+   - ##### Click on Post +
+   - ##### Upload image to post
+   - ##### Change who can see this post to Connections only
+   - ##### Click on Post Button
+   - ##### Click on View post
+   - ##### Click on three dots
+   - ##### Select Edit post
+   - ##### Check the text of "who can see this post"
+
+- #### Expected Result: Connections only text besides connections only icon
+- #### Actual Result: Anyone text besides connections only icon
+- #### Attachments: Bugs Attachments/EditPost.jpeg, Bugs Attachments/EditPost.mp4
+- #### AffectedDevices: Android (Oppo A9)
+- #### Network: Wifi
+- #### Severity: Low
+- #### Priority: Low
