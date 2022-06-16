@@ -52,7 +52,7 @@
 - #### Attachments: Bugs Attachments/SearchResult.jpeg, ugs Attachments/SearchResult1.jpeg
 - #### AffectedDevices: Android (Oppo A9)
 - #### Network: Wifi
-- #### Severity: LOw
+- #### Severity: Low
 - #### Priority: Low
 
 ### 2. Bug_02
@@ -68,8 +68,8 @@
 - #### Attachments: Bugs Attachments/Arabic Language.jpeg, Bugs Attachments/Arabic Language1.jpeg, Bugs Attachments/Arabic Language2.jpeg, Bugs Attachments/Arabic Language3.jpeg
 - #### AffectedDevices: Android (Oppo A9)
 - #### Network: Wifi
-- #### Severity: LOw
-- #### Priority: Low
+- #### Severity: Low
+- #### Priority: Medium
 
 ### 3. Bug_03
 - #### Title : User Agreement _ Wrong Effective Date in Arabic Language
@@ -88,7 +88,7 @@
 - #### Attachments: Bugs Attachments/User Agreement in Arabic.jpeg, Bugs Attachments/User Agreement in English.jpeg
 - #### AffectedDevices: Android (Oppo A9)
 - #### Network: Wifi
-- #### Severity: LOw
+- #### Severity: Low
 - #### Priority: Low
 
 ### 4. Bug_04
@@ -108,8 +108,35 @@
 
 - #### Expected Result: Number of my jobs should be the same at mobile and web
 - #### Actual Result: Number of my jobs at mobile and web is different
-- #### Attachments:Bugs Attachments/Number of jobs mobile.jpeg, Bugs Attachments/Number of jobs web.jpeg
+- #### Attachments: Bugs Attachments/Number of jobs mobile.jpeg, Bugs Attachments/Number of jobs web.jpeg
 - #### AffectedDevices: Android (Oppo A9)
 - #### Network: Wifi
-- #### Severity: LOw
+- #### Severity: Low
+- #### Priority: Low
+
+
+### 5. Bug_05
+- #### Title : Messaging _ Unable to see calendar in dark mood at Schedule meeting for later 
+- #### ReproducibleSteps :
+   - ##### Insatll the app
+    - ##### Open the app
+   - ##### Log in with a valid account
+   - ##### Click on user picture icon
+   - ##### Click on Settings
+   - ##### Click on Account Preferences
+   - ##### Select Dark Mood at Display
+   - ##### Go Back
+   - ##### Click on Messages icon
+   - ##### Choose chat of a connection 'friend'
+   - ##### Click on Meeting icon at the top of screen
+   - ##### Click on Schedule meeting for later
+   - ##### Click on start date
+   - ##### Check the calendar
+
+- #### Expected Result: calendar should appear at dark mode and all numbers should visible
+- #### Actual Result: calendar appears at light mode and numbers are invisible
+- #### Attachments: Bugs Attachments/CalendarDark.jpeg, Bugs Attachments/CalendarLight.jpeg
+- #### AffectedDevices: Android (Oppo A9)
+- #### Network: Wifi
+- #### Severity: Low
 - #### Priority: Low

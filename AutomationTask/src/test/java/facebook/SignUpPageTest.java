@@ -29,7 +29,7 @@ public class SignUpPageTest extends BaseTest {
     }
 
     @Test(dataProvider = "invalidSignUpData")
-    public void signUpWithInvalidData(String fName, String lName, String email, String confirmEmail, String password, String birthData, String gender, String errorMessage) throws InterruptedException {
+    public void signUpWithInvalidData(String fName, String lName, String email, String confirmEmail, String password, String birthData, String gender, String errorMessage)  {
         signUpPage.clickOnCreateNewAccountBtn();
         signUpPage.createNewAccount(fName, lName, email, confirmEmail, password, birthData, gender);
         signUpPage.clickOnSignUpBtn();
